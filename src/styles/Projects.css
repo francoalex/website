@@ -1,0 +1,8 @@
+.projects {
+    background-color: rgb(255, 255, 255);
+    /* border:rgb(238, 238, 238); */
+    margin: 10px;
+    border-radius: 3px;
+    text-align: center;
+    padding: 0 5px 5px 5px;
+}
